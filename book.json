@@ -1,12 +1,9 @@
 {
     "plugins": [
-        "ad",
-        "duoshuo",
         "-sharing",
         "-search",
         "search-pro",
-        "layout",
-        "baidu"
+        "layout"
     ],
     "pluginsConfig": {
         "ad": {
@@ -21,13 +18,13 @@
             "token": "72fc1b392015365e89e1bee72e73041f"
         }
     },
-    "title": "Spring Boot开发教程",
     "copyright": "Copyright 2016 didispace.com",
-    "description": "Spring Boot开发教程与例子",
+    "title": "Spring Boot开发教程",
     "links": {
         "gitbook": false,
         "sidebar": {
             "程序猿DD": "http://blog.didispace.com"
         }
-    }
+    },
+    "description": "Spring Boot开发教程与例子"
 }

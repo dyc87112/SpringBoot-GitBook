@@ -2,8 +2,7 @@
     "plugins": [
         "-sharing",
         "-search",
-        "search-pro",
-        "layout"
+        "-highlight"
     ],
     "pluginsConfig": {
         "ad": {
